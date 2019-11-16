@@ -1,4 +1,4 @@
-# Flutter starter namer
+# Flutter Write my first Flutter app
 
 https://flutter.dev/docs/get-started/codelab
 
