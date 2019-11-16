@@ -1,6 +1,6 @@
-# startup_namer
+# Flutter starter namer
 
-[https://flutter.dev/docs/get-started/codelab](https://flutter.dev/docs/get-started/codelab)
+https://flutter.dev/docs/get-started/codelab
 
 ## Getting Started
 
