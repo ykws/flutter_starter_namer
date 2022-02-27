@@ -1,5 +1,8 @@
 # Flutter Write my first Flutter app
 
+[![macOS](https://img.shields.io/badge/macOS-BigSur-black)](https://developer.apple.com/macos/)
+[![Flutter](https://img.shields.io/badge/Flutter-2.10.2-blue)](https://flutter.dev/)
+
 https://flutter.dev/docs/get-started/codelab
 
 ## Getting Started
